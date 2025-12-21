@@ -1,4 +1,4 @@
-import * as React from 'react';
+import * as  from 'react';
 import { Text, View, StyleSheet, Image } from 'react-native';
 
 export default class AssetExample extends React.Component {
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 24,
+    padding: 25,
   },
   paragraph: {
     margin: 24,
